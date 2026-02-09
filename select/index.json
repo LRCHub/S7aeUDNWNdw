@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢鯨",
+  "base_artist": "UtaGe!",
+  "createdAt": "2026-02-09T06:02:32.359560Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢鯨",
+      "artist": "UtaGe!",
+      "has_synced": false,
+      "path": "select/pl_01_夢鯨_UtaGe!.txt"
+    }
+  ]
+}
